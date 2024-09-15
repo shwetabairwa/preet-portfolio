@@ -13,7 +13,7 @@ const Footer = () => {
               either portrait or landscape orientation.
             </p>
             <div className="flex space-x-6">
-              <a href="#" className="text-white  hover:text-yellow-400 text-xl">
+              <a href="https://www.facebook.com/share/fuzGLj2MSPGkKEjh/?mibextid=qi2Omg" className="text-white  hover:text-yellow-400 text-xl">
                 <i className="fab fa-facebook-f "></i>
               </a>
               <a href="https://www.instagram.com/thepreetbairwa/" className="text-white  hover:text-yellow-400 text-xl">
